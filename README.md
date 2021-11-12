@@ -1,4 +1,4 @@
-# Warzone_idle
+# Warzone_idle_bot
 
 This project is a IDLE bot. And IDLE bot aims to simulate activity in a game for several reasons. Here it is to gain Experience in game for people who don't have a lot of time to unlock weapons for example. Or to gain weapons Exp in specific mode. Or can be used to lower your KDA. Since Warzone is a sweaty game, some lobbies might be full of cheaters or people with very high KDA, the only solution I found to play with people of my skills is by lowering my KDA.
 
@@ -17,8 +17,8 @@ I do not take any responsibility for any account bans. I have no guarantee this 
     * Be sure to have Python 3 installed on your OS.
 
         ```shell
-        $> git clone https://github.com/Uranium2/Warzone_idle
-        $> cd Warzone_idle
+        $> git clone https://github.com/Uranium2/Warzone_idle_bot
+        $> cd Warzone_idle_bot
         $> python3 -m venv .venv
         $> .venv\Script\activate
         (.venv) $> pip3 install -r requirements.txt
@@ -31,7 +31,7 @@ I do not take any responsibility for any account bans. I have no guarantee this 
         ```
         The first launch might take some time since it will download and compile an OCR model on your nachine. This OCR is used to detect whenever you are in the exit menu and relaunch a new game.
 
-* Setup Warzone_idle :
+* Setup Warzone_idle_bot :
 
     * You need to configure yourself the localisation of `Play` button and which game mode you want to play. The reason I use this methode is that the bot can be used on any resolution on any computers. You have to set properly where to click, the bot will do the rest once configured.
 
