@@ -2,6 +2,8 @@
 
 This project is a IDLE bot. And IDLE bot aims to simulate activity in a game for several reasons. Here it is to gain Experience in game for people who don't have a lot of time to unlock weapons for example. Or to gain weapons Exp in specific mode. Or can be used to lower your KDA. Since Warzone is a sweaty game, some lobbies might be full of cheaters or people with very high KDA, the only solution I found to play with people of my skills is by lowering my KDA.
 
+This program needs the game to be in main focus. For that you can not use your computer while botting.
+
 # Disclaimer 
 
 This project is not a cheat. It won't replace your brain and gameplay. I made this project for fun. This idle bot is against Activitions/CoD Terms of Service since it is sending keyboard keys to the game.
@@ -41,7 +43,9 @@ I do not take any responsibility for any account bans. I have no guarantee this 
 
         * The `Play_mode_sub_menu` button is the one to select a specific mode in BR for example. In BR you can be in solo, duo, trio, quad. You have to chose those types of buttons with this settings.
 
-    * You can setup a specific loadout the bot will pickup in modes like `Punder` so you can focus the exp gain on this weapon. The loadout name has to be `Myloadout`. Sometimes it won't use it, that's why I also set it to be on top of the list AND has favourite loadout. 
+    * You can setup a specific loadout the bot will pickup in modes like `Punder` so you can focus the exp gain on this weapon. The loadout name has to be `Myloadout`. Sometimes it won't use it, that's why I also set it to be on top of the list AND has favourite loadout.
+
+    * You need to set up in the game auto parachute deployement. Else you won't survive long to gain any exp. The more you stay alive, the more exp you will get at the end of the match in BR. 
 
     * Press `F3` to toggle on or off the bot. Make sure to select Warzone game client. Else it will send keys to wherever you pressed.
 
